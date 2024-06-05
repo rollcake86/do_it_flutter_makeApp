@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/classicSound/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/classicSound/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/classicSound/build" />
+      <excludeFolder url="file://$MODULE_DIR$/crafty/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/crafty/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/crafty/build" />
+      <excludeFolder url="file://$MODULE_DIR$/honeyBee/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/honeyBee/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/honeyBee/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mybudongsan/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mybudongsan/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mybudongsan/build" />
+      <excludeFolder url="file://$MODULE_DIR$/personalitytest/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/personalitytest/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/personalitytest/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
