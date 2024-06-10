@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "504369550146",
+    "firebase_url": "https://example-20efe-default-rtdb.firebaseio.com",
+    "project_id": "example-20efe",
+    "storage_bucket": "example-20efe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504369550146:android:e478adebd8950719a6eedb",
+        "android_client_info": {
+          "package_name": "com.example.first_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504369550146-bh1gdj718jhaog1kq13jnnghrqpb6f2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHseFBGckA1eB5Nn-EoF53DIOBZI1KOVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504369550146-bh1gdj718jhaog1kq13jnnghrqpb6f2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504369550146-avh09evu6s7ta17qtpri4hl9d88kieid.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rollcake.mybudongsan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504369550146:android:d4045c3e8b465935a6eedb",
+        "android_client_info": {
+          "package_name": "com.rollcake.classicsound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504369550146-bh1gdj718jhaog1kq13jnnghrqpb6f2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHseFBGckA1eB5Nn-EoF53DIOBZI1KOVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504369550146-bh1gdj718jhaog1kq13jnnghrqpb6f2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504369550146-avh09evu6s7ta17qtpri4hl9d88kieid.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rollcake.mybudongsan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504369550146:android:b1f185e1c2686558a6eedb",
+        "android_client_info": {
+          "package_name": "com.rollcake.crafty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504369550146-bh1gdj718jhaog1kq13jnnghrqpb6f2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHseFBGckA1eB5Nn-EoF53DIOBZI1KOVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504369550146-bh1gdj718jhaog1kq13jnnghrqpb6f2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504369550146-avh09evu6s7ta17qtpri4hl9d88kieid.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rollcake.mybudongsan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504369550146:android:aa3f656f319a4adba6eedb",
+        "android_client_info": {
+          "package_name": "com.rollcake.honeybee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504369550146-bh1gdj718jhaog1kq13jnnghrqpb6f2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHseFBGckA1eB5Nn-EoF53DIOBZI1KOVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504369550146-bh1gdj718jhaog1kq13jnnghrqpb6f2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504369550146-avh09evu6s7ta17qtpri4hl9d88kieid.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rollcake.mybudongsan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504369550146:android:92af7e6ef76282d8a6eedb",
+        "android_client_info": {
+          "package_name": "com.rollcake.mybudongsan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504369550146-bh1gdj718jhaog1kq13jnnghrqpb6f2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHseFBGckA1eB5Nn-EoF53DIOBZI1KOVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504369550146-bh1gdj718jhaog1kq13jnnghrqpb6f2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504369550146-avh09evu6s7ta17qtpri4hl9d88kieid.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rollcake.mybudongsan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504369550146:android:10ebac59dac2044aa6eedb",
+        "android_client_info": {
+          "package_name": "com.rollcake.personality.personalitytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504369550146-bh1gdj718jhaog1kq13jnnghrqpb6f2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHseFBGckA1eB5Nn-EoF53DIOBZI1KOVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504369550146-bh1gdj718jhaog1kq13jnnghrqpb6f2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504369550146-avh09evu6s7ta17qtpri4hl9d88kieid.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rollcake.mybudongsan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
