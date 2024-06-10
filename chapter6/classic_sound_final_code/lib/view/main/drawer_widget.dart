@@ -37,7 +37,7 @@ class DrawerWidget extends StatelessWidget{
                 title: const Text('나의 취향'),
                 onTap: () {
                   Navigator.of(context).push(MaterialPageRoute(builder: (context){
-                    return  UserTagPage(database: database,);
+                    return  UserTagPage(database: database);
                   }));
                 },
               ),
